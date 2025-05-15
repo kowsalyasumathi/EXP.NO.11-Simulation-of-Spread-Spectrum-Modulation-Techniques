@@ -3,7 +3,7 @@
 11.Simulation of Spread Spectrum Modulation Techniques
 
 # AIM
-To simulate and analyze Spread Spectrum Modulation Techniques using Direct Sequence Spread Spectrum (DSSS) to observe their performance in resisting interference and enhancing communication security.
+To simulate and analyze Spread Spectrum Modulation Techniques such as  Direct Sequence Spread Spectrum (DSSS) to observe their performance in resisting interference and enhancing communication security using Binary Phase Shift Keying (BPSK).
 
 # SOFTWARE REQUIRED
 Google Colab (python).
@@ -110,4 +110,4 @@ PN Sequence:             [ 1  1  1  1  1  1 -1  1]
 ![image](https://github.com/user-attachments/assets/fba11b0d-40e7-4bd9-ab92-50c65d89fb53)
 
 # RESULT / CONCLUSIONS
-Thus the simulation of Spread Spectrum Modulation Techniques is successfully implemented using Direct Sequence Spread Spectrum .
+The Direct Sequence Spread Spectrum (DSSS) modulation technique was successfully simulated, with the baseband signal and carrier signals represented using Binary Phase Shift Keying (BPSK), resulting in a BPSK waveform.
